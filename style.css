@@ -12,3 +12,8 @@ body{
     text-align: center;
     height: 100vh;
 }
+
+#text{
+    text-decoration: none;
+    color: aliceblue;
+}
